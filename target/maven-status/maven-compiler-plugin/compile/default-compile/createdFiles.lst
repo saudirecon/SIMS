@@ -1,0 +1,8 @@
+com\saad\aldawsari\controllers\retrieveStudentController.class
+com\saad\aldawsari\beans\clientReply.class
+com\saad\aldawsari\controllers\StudentPostController.class
+com\saad\aldawsari\controllers\studentDeleteController.class
+com\saad\aldawsari\beans\Student.class
+com\saad\aldawsari\beans\studentReg.class
+com\saad\aldawsari\main\SimsApplication.class
+com\saad\aldawsari\controllers\studentPUT.class
