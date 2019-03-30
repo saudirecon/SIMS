@@ -4,13 +4,13 @@ Student Information Management System
 TO RUN THE Application in a linux enviroment: 
 
 Open terminal and type: 
-java -jar project.jar
+- java -jar project.jar
 
 TO RUN THE Application in a Windows enviroment: 
 
 open command line prompt and type:
 
-java -jar project.jar 
+- java -jar project.jar 
 
 # a tool such as SOAPUI is very useful on windows. 
 # on linux, you can use curl with the commands below, or you can use burp suite.
